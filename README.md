@@ -38,11 +38,13 @@ Figure -02 HALF Subtractor
 
 HALF ADDER
 
-![WhatsApp Image 2024-12-09 at 23 12 53_48208291](https://github.com/user-attachments/assets/6011e1fb-09bc-4bcf-832c-3a41d8436aae)
+![WhatsApp Image 2024-12-21 at 09 38 15_e7c5f853](https://github.com/user-attachments/assets/48a334fe-1f37-4497-9b7a-10a9f6d01274)
+
 
 HALF SUBTRACTOR
 
-![WhatsApp Image 2024-12-09 at 23 12 54_307eb7be](https://github.com/user-attachments/assets/73acf72f-a59e-4da7-8167-1ea9b4089aba)
+![WhatsApp Image 2024-12-21 at 09 38 09_83143466](https://github.com/user-attachments/assets/f60ba778-33a4-4449-b3e3-6e1f4a9c44e9)
+
 
 **Procedure**
 
