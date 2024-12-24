@@ -33,8 +33,14 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
+
 **Truthtable**
+
+HALF ADDER
+
 ![WhatsApp Image 2024-12-09 at 23 12 53_48208291](https://github.com/user-attachments/assets/6011e1fb-09bc-4bcf-832c-3a41d8436aae)
+
+HALF SUBTRACTOR
 
 ![WhatsApp Image 2024-12-09 at 23 12 54_307eb7be](https://github.com/user-attachments/assets/73acf72f-a59e-4da7-8167-1ea9b4089aba)
 
@@ -77,13 +83,28 @@ Developed by:shaiklahir RegisterNumber:24005737
     endmodule
 
 **RTL Schematic**
+
+
+HALF ADDER
+
 ![Screenshot 2024-11-15 132441](https://github.com/user-attachments/assets/34d4ef78-5b8f-498f-9c2a-ff9f814c033a)
+
+HALF SUBTRACTOR
+
 ![Screenshot 2024-11-15 134410](https://github.com/user-attachments/assets/a3288490-bfb1-43b9-8223-1c056351edc4)
 
+
 **TIMING Waveform**
+
+
+HALF ADDER
+
 ![Screenshot (13)](https://github.com/user-attachments/assets/fee3b88e-8da4-4536-b158-61048076d93e)
+
+HALF SUBTRACTOR
+
 ![Screenshot 2024-11-15 134558](https://github.com/user-attachments/assets/1735d4af-956c-4482-89ed-fe0162d4f9bc)
 
 **Result:**
-Thus the Half and Full Adders are studied and the truth tables are verified.
-Thus the Half and Full Subtractors are studied and the truth tables are verified.
+Thus the Half Adder studied and the truth tables are verified.
+Thus the Half Subtractor studied and the truth tables are verified.
