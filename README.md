@@ -108,5 +108,6 @@ HALF SUBTRACTOR
 ![Screenshot 2024-11-15 134558](https://github.com/user-attachments/assets/1735d4af-956c-4482-89ed-fe0162d4f9bc)
 
 **Result:**
-Thus the Half Adder studied and the truth tables are verified.
-Thus the Half Subtractor studied and the truth tables are verified.
+
+Thus the Half Adder and Half subtractor studied and the truth tables are verified.
+
