@@ -101,7 +101,8 @@ HALF SUBTRACTOR
 
 HALF ADDER
 
-![Screenshot (13)](https://github.com/user-attachments/assets/fee3b88e-8da4-4536-b158-61048076d93e)
+![WhatsApp Image 2024-12-27 at 14 06 17_3a0abdcd](https://github.com/user-attachments/assets/9f3067bd-63bd-4d57-9a73-416d5412dff1)
+
 
 HALF SUBTRACTOR
 
